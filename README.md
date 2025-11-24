@@ -1,4 +1,4 @@
-# URL Phishing Detection Using Machine Learning
+# URL Phishing Detection
 
 ## Overview
 This project predicts whether a given URL is **phishing** or **legitimate** using machine learning.  
